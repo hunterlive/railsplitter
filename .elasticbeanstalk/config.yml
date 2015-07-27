@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: railsplitter-dev
 global:
   application_name: railsplitter
   default_ec2_keyname: Filezilla
